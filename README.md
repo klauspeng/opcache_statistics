@@ -5,6 +5,5 @@
 借助`opcache_get_configuration()`以及`opcache_get_status()`函数获取数据。
 
 效果如下：
-[效果](https://github.com/klauspeng/opcache_statistics/view.png)
-
+![](https://github.com/klauspeng/opcache_statistics/raw/master/view.png)
 
